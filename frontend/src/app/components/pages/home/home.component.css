@@ -1,9 +1,14 @@
 .c-item {
-  height: 480px;
+  height: 500px;
 }
 .c-image {
   height: 100%;
   object-fit: cover;
-  filter: brightness(0.6);
-  -webkit-filter: brightness(0.6);
+  filter: brightness(0.5);
+  -webkit-filter: brightness(0.5);
+}
+.main-btn {
+  border-color: transparent;
+  background: #d93c23;
+  font-weight: 500;
 }
